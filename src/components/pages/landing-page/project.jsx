@@ -24,7 +24,7 @@ $(document).ready(function(){
  $('.list').click(function(){
 
    const value = $(this).attr('data-filter');
-      if(value =='all'){
+      if(value === 'all'){
             $('.itembox').show('1000');
            
       }
@@ -67,103 +67,103 @@ function Project(){
               <div class="project-container">
 							<div id="wrapper" className="all branding webdesign" >
 					<div className='itembox camera '>
-                              <img src={one} alt="" />
+                              <img src={one} alt="camera" />
                               </div>		
 					</div>
 
 					<div id="wrapper" className="all branding webdesign" >
 					<div className='itembox mobile '>
-                              <img src={two} alt="" />
+                              <img src={two} alt="mobile" />
                               </div>	
 					</div>
                                
 
                               <div id="wrapper" className=" all branding webdesign" >
 					<div className='itembox watch'>
-                              <img src={three} alt="" />
+                              <img src={three} alt="watch" />
                               </div>	
 					</div>
 
                               <div id="wrapper" className=" all branding webdesign" >
 					<div className='itembox  headphone'>
-                              <img src={four} alt="" />
+                              <img src={four} alt="headphone" />
                               </div>	
 					</div>
 
 
 					<div id="wrapper" className=" all photography" >
                               <div className='itembox camera'>	
-                              <img src={five} alt="" />
+                              <img src={five} alt="camera" />
 					</div>		
 					</div>
 				
 					<div id="wrapper" className=" all branding webdesign" >
                               <div className='itembox mobile'>	
-                              <img src={six} alt="" />
+                              <img src={six} alt="mobile" />
 						</div>	
 						
 					</div>
 				
 					<div id="wrapper" className=" all branding webdesig photographyn" >
 					<div className='itembox watch'>	
-                              <img src={seven} alt="" />
+                              <img src={seven} alt="watch" />
                               </div>	
 					</div>
 				
 					<div id="wrapper" className=" all webdesign photography" >
                               <div className='itembox headphone'>
-                              <img src={eight} alt="" />
+                              <img src={eight} alt="headphone" />
 					</div>		
 					</div>
 					
 					<div id="wrapper" className=" all webdesign photography">
                               <div className='itembox camera'>
-                              <img src={nine} alt="" />
+                              <img src={nine} alt="camera" />
 						</div>	
 					</div>
 
                               <div id="wrapper" className=" all branding webdesign" >
 					<div className='itembox mobile'>
-                              <img src={ten} alt="" />
+                              <img src={ten} alt="mobile" />
                               </div>	
 					</div>
                               
                               <div id="wrapper" className="all branding webdesign" >
 					<div className='itembox watch'>
-                              <img src={ele} alt="" />
+                              <img src={ele} alt="watch" />
                               </div>	
 					</div>
                                  
 
                               <div id="wrapper" className=" all branding webdesign" >
 					<div className='itembox headphone'>
-                              <img src={twe} alt="" />
+                              <img src={twe} alt="headphone" />
                               </div>	
 					</div>
                                
 
                               <div id="wrapper" className=" all photography" >
                               <div className='itembox camera'>	
-                              <img src={five} alt="" />
+                              <img src={five} alt="camera" />
 					</div>		
 					</div>
 
                               <div id="wrapper" className=" all branding webdesign" >
 					<div className='itembox mobile'>
-                              <img src={thr} alt="" />
+                              <img src={thr} alt="mobile" />
                               </div>	
 					</div>
                              
                               <div id="wrapper" className=" all branding webdesign" >
 					<div className='itembox watch'>
-                              <img src={fou} alt="" />
+                              <img src={fou} alt="watch" />
                               </div>	
 					</div>
                              
 
                               <div id="wrapper" className=" all branding webdesign" >
 					<div className='itembox headphone'>
-                              <img src={fiv} alt="" />
+                              <img src={fiv} alt="headphone" />
                               </div>	
 					</div>
 

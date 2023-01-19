@@ -18,9 +18,9 @@ function Blog(){
 				<div class="col-lg-4 col-md-6 blog-item">
 					<div class="single-blog">
 						<div class="post-img">
-							<a href="#">
-								<img src={blog1} alt=""/>
-							</a>
+						
+								<img src={blog1} alt="offical"/>
+					
 						</div>
 						<div class="blog-content">
 							
@@ -38,9 +38,9 @@ function Blog(){
 				<div class="col-lg-4 col-md-6 blog-item">
 					<div class="single-blog">
 						<div class="post-img">
-							<a href="#">
-								<img src={blog2} alt=""/>
-							</a>
+						
+								<img src={blog2} alt="offcial"/>
+						
 						</div>
 						<div class="blog-content">
 							
@@ -58,9 +58,9 @@ function Blog(){
 				<div class="col-lg-4 col-md-6 blog-item">
 					<div class="single-blog">
 						<div class="post-img">
-							<a href="#">
-								<img src={blog3} alt=""/>
-							</a>
+					
+								<img src={blog3} alt="offcial"/>
+						
 						</div>
 						<div class="blog-content">
 							

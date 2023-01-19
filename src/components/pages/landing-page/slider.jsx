@@ -17,17 +17,17 @@ function Slider(){
  
     <div class="carousel-item active">
     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. enim ad minim veniam, quis nostrud exercitation laboris nisi ut aliquip ex ea commodo consequat. enim ad minim veniam, quis nostrud exercitation laboris.</p>
-      <img src={men} class="d-block w-100" alt="..."/>
+      <img src={men} class="d-block w-100" alt="men"/>
   
     </div>
     <div class="carousel-item">
     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. enim ad minim veniam, quis nostrud exercitation laboris nisi ut aliquip ex ea commodo consequat. enim ad minim veniam, quis nostrud exercitation laboris.</p>
-      <img src={women} class="d-block w-100" alt="..."/>
+      <img src={women} class="d-block w-100" alt="women"/>
       
     </div>
     <div class="carousel-item">
     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. enim ad minim veniam, quis nostrud exercitation laboris nisi ut aliquip ex ea commodo consequat. enim ad minim veniam, quis nostrud exercitation laboris.</p>
-      <img src={girl} class="d-block w-100" alt="..."/>
+      <img src={girl} class="d-block w-100" alt="women"/>
      
     </div>
   </div>

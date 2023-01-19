@@ -13,7 +13,7 @@ function About(){
           <h1>About Me</h1>
           <div className='about'>
            <div className='one-side'>
-               <img src={img} alt="" />
+               <img src={img} alt="Girl in a jacket" />
            </div>   
            <div className="second-side">
                <h3>I am <span>Surbhi Sahu</span></h3>

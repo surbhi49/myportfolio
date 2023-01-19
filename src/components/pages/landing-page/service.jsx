@@ -23,7 +23,7 @@ import market from '../../../assets/images/market.png';
 								</div>
 								<div class="services-text">
                                         <div className='img'>
-                                        <img src={web}></img>
+                                        <img src={web} alt="Web development"></img>
                                         </div>
 									<h3>Web Development</h3>
 									<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed eiusmod tempor incididunt ut labore et dolore.</p>
@@ -38,7 +38,7 @@ import market from '../../../assets/images/market.png';
 								</div>
 								<div class="services-text">
                                         <div className='img'>
-                                        <img src={responsive}></img>
+                                        <img src={responsive} alt="responsive design" ></img>
                                         </div>
 									<h3>Responsive Design</h3>
 									<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed eiusmod tempor incididunt ut labore et dolore.</p>
@@ -53,7 +53,7 @@ import market from '../../../assets/images/market.png';
 								</div>
 								<div class="services-text">
                                         <div className='img'>
-                                        <img src={photo}></img>
+                                        <img src={photo} alt="girl"></img>
                                         </div>
 									<h3>Photographer</h3>
 									<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed eiusmod tempor incididunt ut labore et dolore.</p>
@@ -67,8 +67,8 @@ import market from '../../../assets/images/market.png';
 								<div class="services-icon"> <i class="pe-7s-tools"></i> 
 								</div>
 								<div class="services-text">
-                                        <div className='img'>
-                                        <img src={react}></img>
+                                        <div className='img' >
+                                        <img src={react} alt="react"></img>
                                         </div>
 									<h3>React Developer</h3>
 									<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed eiusmod tempor incididunt ut labore et dolore.</p>
@@ -83,7 +83,7 @@ import market from '../../../assets/images/market.png';
 								</div>
 								<div class="services-text">
                                         <div className='img'>
-                                        <img src={comm}></img>
+                                        <img src={comm} alt="communication"></img>
                                         </div>
 									<h3>Fast Communication</h3>
 									<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed eiusmod tempor incididunt ut labore et dolore.</p>
@@ -98,7 +98,7 @@ import market from '../../../assets/images/market.png';
 								</div>
 								<div class="services-text">
                                              <div className='img'>
-                                        <img src={market}></img>
+                                        <img src={market} alt="analyist"></img>
                                         </div>
 									<h3>Market Analysis</h3>
 									<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed eiusmod tempor incididunt ut labore et dolore.</p>

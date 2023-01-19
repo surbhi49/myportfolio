@@ -9,7 +9,7 @@ function Head(){
           
   <nav id="nav" class="navbar bg-body-tertiary fixed-top">
   <div class="container-fluid">
-    <a class="navbar-brand" href="#"><span>S</span>urbhi</a>
+    <span class="navbar-brand"><span>S</span>urbhi</span>
     <button class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasNavbar" aria-controls="offcanvasNavbar">
      <div className="toggle">
       <span class="navbar-toggler-icon"></span>

@@ -576,7 +576,7 @@ font-size: 14px;
         }
         .bg-img {
           
-          height: 163vh;
+          height: 153vh;
          
         }
         .about {
@@ -599,7 +599,7 @@ font-size: 14px;
 
  .bg-img {
      
-     height: 153vh;
+     height: 143vh;
     
    }
    .about {
@@ -622,7 +622,7 @@ font-size: 14px;
 @media  (max-width:1199px) and (min-width:1024px){
 .bg-img {
     
-     height: 145vh;
+     height: 135vh;
    }
    .about {
      display: flex;
@@ -644,7 +644,7 @@ font-size: 14px;
 @media  (max-width:1023px) and (min-width:800px){
 
      .bg-img {
-          height:135vh;
+          height:120vh;
      }
      .detail h3 {
           font-size: 14px;}
@@ -705,7 +705,7 @@ font-size: 14px;
 
 
      .bg-img{
-          height: 120vh;
+          height: 100vh;
      }
 
      .detail h3 {
@@ -774,7 +774,7 @@ font-size: 14px;
 
      .bg-img {
           background-image: url(http://localhost:3000/static/media/home-bg.d9da77249643fa8c5690.jpg);
-          height: 100vh;
+          height: 81vh;
           background-repeat: no-repeat;
           background-size: cover;
           background-position: right;
